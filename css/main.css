@@ -132,7 +132,7 @@ input {
 
 .offer {
     position: relative;
-    background: #99b5c8 url(../img/background-header.png) center top fixed;
+    background: #99b5c8 url(../img/background-header.png) center top fixed / cover;
 }
 
 .offer__block {
